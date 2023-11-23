@@ -7,5 +7,5 @@ My goal is to become a professional data scientist and with time be able to brin
 to this field.
 I will add all my project to this repository and all will be public.
 I hope, I can show proficiency and who will see my work will like it.
-Every feedbacks are welcome bad or good doesn't matter all are welcome ( maybe bad are better in leraning wise :) )
+Every feedbacks are welcome bad or good doesn't matter all are welcome ( maybe bad is better in leraning wise :) )
 
